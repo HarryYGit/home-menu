@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# home menu and order taking system
+- Web based menu system
+- order breakfast, coffee, lunch, dinner
+- send to kitchen with one click
+- receive order via email by EmailJS free email api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

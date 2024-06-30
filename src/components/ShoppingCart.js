@@ -21,6 +21,7 @@ const ShoppingCart = ( {cart} ) => {
         () => {
           alert("Order sent to Kitchen Successfully!");
           console.log('SUCCESS!');
+          window.location.reload();
         },
         (error) => {
           console.log('FAILED...', error.text);
